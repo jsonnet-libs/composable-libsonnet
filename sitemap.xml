@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://jsonnet-libs.github.io/composable-libsonnet/</loc>
-         <lastmod>2022-06-14</lastmod>
+         <lastmod>2023-06-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/composable-libsonnet/0.2.0/</loc>
-         <lastmod>2022-06-14</lastmod>
+         <lastmod>2023-06-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/composable-libsonnet/0.2.0/ibmcloud/</loc>
-         <lastmod>2022-06-14</lastmod>
+         <lastmod>2023-06-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/composable-libsonnet/0.2.0/ibmcloud/v1alpha1/</loc>
-         <lastmod>2022-06-14</lastmod>
+         <lastmod>2023-06-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/composable-libsonnet/0.2.0/ibmcloud/v1alpha1/composable/</loc>
-         <lastmod>2022-06-14</lastmod>
+         <lastmod>2023-06-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
